@@ -10,7 +10,8 @@ Before running ytmusictui, you need to make sure a few required tools and librar
 
 You must have **[mpv](https://mpv.io/)** installed on your machine to play the audio streams. 
 
-* **Ubuntu/Debian:** ```sudo apt install mpv
+* **Ubuntu/Debian:** ```
+sudo apt install mpv
 * **macOS:** ```bash
     brew install mpv
     ```
