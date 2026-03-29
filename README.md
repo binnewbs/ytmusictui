@@ -4,15 +4,14 @@ A Terminal User Interface (TUI) for YouTube Music.
 
 ## Dependencies
 
-Before running `ytmusictui`, you need to make sure a few required tools and libraries are installed on your system. The project relies on Python packages for the interface and backend, and a system-level media player for audio playback.
+Before running ytmusictui, you need to make sure a few required tools and libraries are installed on your system. The project relies on Python packages for the interface and backend, and a system-level media player for audio playback.
 
 ### 1. System Requirements
 
 You must have **[mpv](https://mpv.io/)** installed on your machine to play the audio streams. 
 
 * **Ubuntu/Debian:** ```bash
-    sudo apt install mpv
-    ```
+    ```sudo apt install mpv
 * **macOS:** ```bash
     brew install mpv
     ```
