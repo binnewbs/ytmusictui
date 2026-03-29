@@ -8,7 +8,7 @@ ytmusic = YTMusic()
 
 def search_music(query):
     results = ytmusic.search(query, filter="songs")
-    return results[:10]  # limit hasil biar rapih
+    return results[:10] 
 
 def display_results(results):
     table = Table(title="Search Results")
