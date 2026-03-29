@@ -1,1 +1,1 @@
-*YTMusicTUI Player*
+**YTMusicTUI Player**
